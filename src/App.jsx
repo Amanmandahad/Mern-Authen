@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      hiiiiii mern auth
+      hiiiiii mern 
     </div>
   )
 }
